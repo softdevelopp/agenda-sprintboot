@@ -26,8 +26,4 @@ public class AgendaApplication {
 		return new SpringDataDialect();
 	}
 
-	public static org.slf4j.Logger getLog() {
-		return log;
-	}
-
 }
